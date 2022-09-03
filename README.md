@@ -1,6 +1,7 @@
 All files are for personal use only.
 
-5colors-0-18.zip includes cards in five colors/suits numbered from 0 to 18, card back, suit cards to indicate trump, and small square suit graphics to be used in a chooser.
+<h3>5colors-0-18.zip</h3>
+includes cards in five colors/suits numbered from 0 to 18, card back, suit cards to indicate trump, and small square suit graphics to be used in a chooser.
 
 ![1card-back](https://user-images.githubusercontent.com/82072722/187797244-a5980967-d6bb-4e3f-81eb-d45d0dbc86ed.png)
 
